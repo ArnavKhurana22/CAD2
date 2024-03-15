@@ -1,0 +1,61 @@
+body {
+    background-image: url("hmm.jpg");
+    background-size: cover;
+}
+
+.DineX {
+    margin-left: 760px;
+    font-size: 48px;
+}
+
+.menu {
+    border-radius: 5px;
+    margin-left: 735px;
+}
+
+.appetizers {
+    margin-top: 100px;
+}
+
+.Mains {
+    margin-top: 50px;
+}
+
+.Deserts {
+    margin-top: 50px;
+}
+
+.appetizers h2 {
+    margin-top: 50px;
+    font-size: 30px;
+    margin-left: 15px;
+}
+
+.appetizers p {
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.Mains h3 {
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.Mains p {
+    margin-bottom: 10px;
+    margin-left: 24px;
+    font-size: 20px;
+}
+
+.Deserts h4 {
+    margin-top: 50px;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.Deserts p {
+    margin-bottom: 10px;
+    margin-left: 30px;
+    font-size: 20px;
+}
